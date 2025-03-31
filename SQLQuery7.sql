@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS Northwind;
+CREATE DATABASE Northwind;
+USE Northwind;
+

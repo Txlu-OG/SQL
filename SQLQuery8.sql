@@ -1,0 +1,1 @@
+SELECT CustomerID FROM Products;
